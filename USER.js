@@ -1,8 +1,8 @@
-const pairNumber = "234xxxxxxxxxxx";
+const pairNumber = "923107552846";
 
 const accNumber = ""
 
-const name = ""
+const name = "King Wolfy"
 
 const bankName = ""
 
